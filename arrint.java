@@ -4,7 +4,7 @@ public class Subsetarray {
         Integer original[] = {1,2,3,9};
 Integer input[] = {6,6};
 
-if (Arrays.asList(original).containsAll(Arrays.asList(input)))
+if (cc)))
 {
     System.out.println("Yup, they're in there!");
 }
